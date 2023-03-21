@@ -5,3 +5,4 @@
 1. py -m venv venv-vision  
 2. .\venv-vision\Scripts\activate
 3. pip install -r requirements.txt
+4. https://cloud.google.com/docs/authentication/provide-credentials-adc#how-to
